@@ -2,6 +2,8 @@
 
 A large list of beer hops in a JSON doc. Includes name, some information, alpha-acid, beta-acid, flavors, purpose, and origin.
 
+The link field is there because I haven't decided if I want to add links to everything just yet. Or if I even can.
+
 Example Below
 
 ```json
